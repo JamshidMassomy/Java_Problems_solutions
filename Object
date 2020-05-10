@@ -1,0 +1,82 @@
+    //Missin numbe in arry
+        //ArryMissingNumber arryMissingNumber = new ArryMissingNumber();
+        //arryMissingNumber.Find(new int[]{1,2,3,4,5,6,8,9});
+
+        //ArrySumOfTwo arrySumOfTwo = new ArrySumOfTwo();
+        //arrySumOfTwo.Sum(new int[]{1,2,4,5},6);
+
+        //ArrySmallest_Largest arrySmallest_largest = new ArrySmallest_Largest();
+        //arrySmallest_largest.Find(new int[]{1,2,3,4});
+        //ArryDuplicateNumber arryDuplicateNumber = new ArryDuplicateNumber();
+        //arryDuplicateNumber.Find(new int[]{1,4,3,4,5,8});
+
+
+        /*QuickSort quickSort = new QuickSort();
+        int[] _arr  = new int[]{4,12,10,3,20};
+        quickSort.Parition(_arr,0,4);
+        quickSort.QuickSort(_arr,0,4);
+        for(int p =0;p<_arr.length;p++){
+            System.out.println(_arr[p]);
+        }
+*       */
+
+        //Stack nums = new Stack(4);
+        //nums.show();
+        //nums.push(90);
+        //nums.push(101);
+        //nums.push(200);
+        //nums.push(92);
+        //nums.pop();
+        //nums.show();
+        //nums.peek();n
+
+        //StackMax stackMax = new StackMax();
+        //stackMax.MaxElemenet();
+
+        //StackReverse reversStack = new StackReverse();
+        //reversStack.Rev();
+
+        /* for(int x=10;x<1;x--){
+            System.out.println(x);
+            for(int k =9;k<x;k--){
+                System.out.print(k);
+            }
+        }
+        */
+
+
+        //CenteredArray(new Integer[]{8,2,10,21,4});
+        //CenteredArray(new Integer[]{});
+        //CenteredArray(new Integer[]{2,1,5});
+
+       // Date now = new Date();
+        //System.out.println(now);
+
+
+
+
+        PlaindromString plaindromString = new PlaindromString();
+        plaindromString.Check("JABCD");
+
+        //PlaindromNumber plaindromNumber = new PlaindromNumber();
+        //plaindromNumber.Check(121);
+
+        //Scanner a = new Scanner(System.in);
+        //String b =a.nextLine();
+
+
+        //System.out.println(String.valueOf(st)+String.valueOf(1));
+        //DigitSplit(9802343);
+        //TringleNumbers();
+        //PenUltimateText("The quick brown fox jumps over the lazy dog.");
+
+        //InsertTextInMiddle("Hello Mr   Nice_To See_You","Jamshid");
+        //ArryOps("Hello this is  My_Name_IS","Jamshid");
+
+        //UpperCase("A BOOK");
+       // LowerCase("JAMSHID");
+        //SumOfDigits(55);
+        //Number_Days();
+        //Sum_of_Two(arry,target);
+       // Reverse("Hello my name is jamshid");
+        //CharCounter("Jamshid3 lop");

@@ -1,0 +1,17 @@
+//3  -- > tused
+// 0 --.> Sat
+//
+0 - sat
+1 - sun
+2 - mon
+3 - tu
+4 - we
+5 - tha
+6 - fri
+
+[0] = ["sat"]
+
+enter the index of the arry
+0, 
+
+index [0]
