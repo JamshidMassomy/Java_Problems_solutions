@@ -7,8 +7,8 @@ public class StringDuplicateChar {
                 if(chars[x] ==chars[y]){
                     counter++;
                     System.out.println("duplicate char is :" +chars[x]);
-
-
+                }else{
+                    System.out.println("Non Repeated Chars are :"+chars[x]);
                 }
             }
         }

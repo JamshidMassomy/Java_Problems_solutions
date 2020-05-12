@@ -1,12 +1,10 @@
 public class ArryMissingNumber {
     public static void Find(int[] Arr){
-        int checker = 0;
+        int n = Arr.length+1;
+        int _total = n*(n+1)/2;
         for(int i=0;i<Arr.length;i++){
-            checker++;
-            if( checker != Arr[i] ){
-                System.out.println("missing number is "+checker);
-                return;
-            }
+            _total = _total - Arr[i];
         }
+        System.out.println(_total);
     }
 }

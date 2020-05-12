@@ -1,3 +1,8 @@
+        //StringDuplicateChar stringDuplicateChar = new StringDuplicateChar();
+        //stringDuplicateChar.Check("POKMSBCDQPMNBCD");
+        //
+
+
     //Missin numbe in arry
         //ArryMissingNumber arryMissingNumber = new ArryMissingNumber();
         //arryMissingNumber.Find(new int[]{1,2,3,4,5,6,8,9});
