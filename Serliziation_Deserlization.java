@@ -21,7 +21,7 @@ public class Serliziation_Deserlization {
             System.out.println(obj.getCode());
             System.out.println(obj.getId());
             System.out.println(obj.getSalary());
-            System.out.println(obj.getRegisterDate());
+            System.out.println(obj.getRegisterDate() + "reg date");
         }catch (IOException ex){
             System.out.println(ex);
         }
