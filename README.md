@@ -11,7 +11,10 @@
 The solutions are provided based on my own logic, alternative logic might apply to these problems. 
 
 
-TOOLS
+Tools:
 Jenkins CI/CD 
-AWS ec2 linux instance 
+AWS ec2 linux instance
+Intilleji
+Git
+Java
 
