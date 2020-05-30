@@ -15,4 +15,3 @@ TOOLS
 Jenkins CI/CD 
 AWS ec2 linux instance 
 
-Heloo abc ssfd
